@@ -23,6 +23,13 @@ This project implements the **LeaderRank algorithm** to analyze networks and ide
 
 ---
 
+## File Structure
+
+- **`leader_rank.py`**: The main script that implements the LeaderRank algorithm and visualizations.
+- **`facebook_combined.txt`**: Example dataset used to test the algorithm.
+- **`LeaderRank_Scores.xlsx`**: Output file containing LeaderRank scores for all nodes.
+
+
 ## Installation
 
 ### Prerequisites
