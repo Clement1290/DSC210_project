@@ -31,7 +31,4 @@ Ensure you have Python 3.7+ installed. Then, install the required libraries.
 
 ### Steps
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/LeaderRank.git
-   cd LeaderRank
+1. Install the dependencies: pip install 
