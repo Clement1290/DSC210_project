@@ -1,7 +1,7 @@
 # DSC210_project
 Codes for DSC210 Project (24 Fall)
 
-# LeaderRank Algorithm for Network Analysis
+# LeaderRank Algorithm
 
 This project implements the **LeaderRank algorithm** to analyze networks and identify the most influential nodes. The algorithm highlights nodes with high global connectivity, including bridge nodes that connect different communities, ensuring a robust ranking for both sparse and dense networks.
 
@@ -31,4 +31,7 @@ Ensure you have Python 3.7+ installed. Then, install the required libraries.
 
 ### Steps
 
-1. Install the dependencies: pip install 
+1. Install the dependencies:
+```bash
+pip install networkx numpy matplotlib pandas
+
