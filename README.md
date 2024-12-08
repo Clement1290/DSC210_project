@@ -41,4 +41,6 @@ Ensure you have installed:
 pip install -r requirements.txt
 ```
 3. Open **`Node_Importance_in_Graph.ipynb`** and run all the cells of the notebook.
-   -Note that it may take a few minutes to show the visualization
+- Note that it may take a few minutes to show the visualization
+  
+## Experiment Results
