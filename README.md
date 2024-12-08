@@ -44,3 +44,6 @@ pip install -r requirements.txt
 - Note that it may take a few minutes to show the visualization
   
 ## Experiment Results
+### Eigenvector centrality & PageRank
+### LeaderRank
+### Remarks
