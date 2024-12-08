@@ -35,8 +35,8 @@ Ensure you have installed:
 - Jupyter notebook
 
 ### Steps
-
-1. Install the dependencies:
+1. Clone [this project]() in the root file
+2. Install the dependencies:
 ```bash
 pip install networkx numpy matplotlib pandas
 
