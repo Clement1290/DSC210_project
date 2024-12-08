@@ -1,9 +1,9 @@
 # DSC210_project
 Codes for DSC210 Project (24 Fall)
 
-# LeaderRank Algorithm
+# Introduction
 
-This project implements the **LeaderRank algorithm** to analyze networks and identify the most influential nodes. The algorithm highlights nodes with high global connectivity, including bridge nodes that connect different communities, ensuring a robust ranking for both sparse and dense networks.
+This project implements three different approaches (Eigenvector centrality, PageRank and LeaderRank) to analyze social networks and identify the most influential nodes.
 
 ---
 
@@ -12,14 +12,13 @@ This project implements the **LeaderRank algorithm** to analyze networks and ide
 1. **Adjacency Matrix Construction**:
    - Converts the input edge list into an adjacency matrix for analysis.
 
-2. **LeaderRank Algorithm**:
-   - Identifies the most important nodes in the network using a supernode-based approach and power iteration.
+2. **Algorithm implementation**:
+   - Identifies the most important nodes in the network using Eigenvector centrality, PageRank, and LeaderRank.
 
 3. **Top Nodes Visualization**:
    - Highlights the top 20 influential nodes in the network graph using color coding (red for top nodes).
 
-4. **Result Export**:
-   - Saves the LeaderRank scores of all nodes in an Excel file for further analysis.
+4. **Result Analysis**
 
 ---
 
