@@ -35,8 +35,10 @@ Ensure you have installed:
 - Jupyter notebook
 
 ### Steps
-1. Clone [this project]() in the root file
-2. Install the dependencies:
+1. Clone [this project](https://github.com/Clement1290/DSC210_project.git) in the root file
+2. install the environments
 ```bash
-pip install networkx numpy matplotlib pandas
-
+pip install -r requirements.txt
+```
+3. Open **`Node_Importance_in_Graph.ipynb`** and run all the cells of the notebook.
+   -Note that it may take a few minutes to show the visualization
