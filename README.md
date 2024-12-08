@@ -30,7 +30,9 @@ This project implements three different approaches (Eigenvector centrality, Page
 
 ### Prerequisites
 
-Ensure you have Python 3.7+ installed. Then, install the required libraries.
+Ensure you have installed:
+- Python 3.10.12
+- Jupyter notebook
 
 ### Steps
 
