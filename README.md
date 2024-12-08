@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ![4](images/Top10_Nodes_by_PageRank.png)
 ![5](images/PageRank.png)
 ### LeaderRank
-!(Top20_Nodes_by_LeaderRank.png)
+![](Top20_Nodes_by_LeaderRank.png)
 ![7](images/LeaderRank.png)
 ### Remarks
 ![8](images/Top10_Nodes_of_Average_Rank.png)
