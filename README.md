@@ -1,11 +1,10 @@
 # DSC210_project
 Below are codes and experiment results for DSC210 Project (24 Fall)
 
-# Introduction
+## Introduction
 
 This project implements three different approaches (Eigenvector centrality, PageRank and LeaderRank) to analyze social networks and identify the most influential nodes.
 
----
 
 ## Features
 
@@ -23,9 +22,8 @@ This project implements three different approaches (Eigenvector centrality, Page
 
 ## File Structure
 
-- **`leader_rank.py`**: The main script that implements the LeaderRank algorithm and visualizations.
-- **`facebook_combined.txt`**: Example dataset used to test the algorithm.
-- **`LeaderRank_Scores.xlsx`**: Output file containing LeaderRank scores for all nodes.
+- **`Node_Importance_in_Graph.ipynb`**: The main notebook that implements the experiments and shows the visualizations.
+- **`SNAP_facebook`**: Dataset used to perform the experiments.
 
 
 ## Installation
