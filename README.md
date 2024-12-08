@@ -44,6 +44,7 @@ pip install -r requirements.txt
 - Note that it may take a few minutes to show the visualization
   
 ## Experiment Results
+![Data Visualization of Graph](images/data_visual_all.png)
 ### Eigenvector centrality & PageRank
 ### LeaderRank
 ### Remarks
