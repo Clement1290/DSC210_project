@@ -1,5 +1,5 @@
 # DSC210_project
-Codes for DSC210 Project (24 Fall)
+Below are codes and experiment results for DSC210 Project (24 Fall)
 
 # Introduction
 
@@ -20,7 +20,6 @@ This project implements three different approaches (Eigenvector centrality, Page
 
 4. **Result Analysis**
 
----
 
 ## File Structure
 
