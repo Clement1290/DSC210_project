@@ -44,7 +44,15 @@ pip install -r requirements.txt
 - Note that it may take a few minutes to show the visualization
   
 ## Experiment Results
-![Data Visualization of Graph](images/data_visual_all.png)
+![1](images/data_visual_all.png)
 ### Eigenvector centrality & PageRank
+![2](images/Top10_Nodes_by_Eigenvector.png)
+![3](images/EigenvectorCen.png)
+![4](images/Top10_Nodes_by_PageRank.png)
+![5](images/PageRank.png)
 ### LeaderRank
+![6](Top20_Nodes_by_LeaderRank.png)
+![7](images/LeaderRank.png)
 ### Remarks
+![8](images/Top10_Nodes_of_Average_Rank.png)
+![9](images/Kendall's_Tau_Correlation_Results.png)
